@@ -1,0 +1,10 @@
+site_name: 'Trabalho Medalhão'
+site_description: 'Documentação do projeto - Arquitetura Medalhão com Databricks e Delta Lake'
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Sobre o Projeto: README.md
+  - Como usar: usage.md
+  - Estrutura do projeto: structure.md
+  - README original: README-original.md
