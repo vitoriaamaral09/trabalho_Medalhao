@@ -1,3 +1,5 @@
+# README Original
+
 # Projeto: Pipeline de Dados com Databricks e Delta Lake. Arquitetura Medalhão.
 
 Este repositório apresenta o desenvolvimento de um **Pipeline de Dados** utilizando o **Databricks** e o **Delta Lake**, aplicando a **Arquitetura Medalhão (Medallion Architecture)**, com as camadas **Landing**, **Bronze**, **Silver** e **Gold**.
@@ -71,6 +73,3 @@ Para visualizar a documentação com **MkDocs**:
 
 
 ## Alunas: Eunice de Borba, Maria Laura Jeronimo e Vitória Viana
-
-
-
