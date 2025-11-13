@@ -1,0 +1,47 @@
+site_name: Pipeline de Dados - Arquitetura Medalhão
+site_description: Projeto de Engenharia de Dados com Databricks e Delta Lake
+site_author: Eunice de Borba, Maria Laura Jeronimo e Vitória Viana
+repo_url: https://github.com/vitoriaamaral09/trabalho_medalhao.git
+repo_name: GitHub
+site_url: https://github.com/vitoriaamaral09/trabalho_medalhao.git
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+    - content.code.annotate
+    - toc.integrate
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Modo noturno
+      primary: grey
+      accent: deep-orange
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+      primary: grey
+      accent: deep-orange
+  icon:
+    repo: fontawesome/brands/github
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/vitoriaamaral09/trabalho_medalhao.git
+      name: Repositório no GitHub
+
+nav:
+  - Início: index.md
+  - Arquitetura Medalhão: arquitetura.md
+  - Dataset: dataset.md
+  - Referências: referencias.md
